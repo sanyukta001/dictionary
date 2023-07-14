@@ -106,7 +106,7 @@ body {
 }
 
 nav {
-  background: #6da9d6;
+  /* background: #6da9d6; */
   padding: 10px;
   /**/
   height: 80px;
@@ -145,7 +145,7 @@ label.logo {
 
 .lp {
   display: inline-block;
-  background: #f32929;
+  /* background: #f32929; */
 }
 
 nav ul {
