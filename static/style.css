@@ -169,7 +169,7 @@ nav ul li a {
 
 a.active,
 a:hover {
-  background: #1b9bff;
+  background: #48f9f6;
   transition: .5s;
 }
 
@@ -177,7 +177,7 @@ a:hover {
   width: 1200px;
   height: auto;
   margin: auto;
-  color: #fff;
+  color: #f3f1f1;
   position: relative;
 }
 
@@ -187,7 +187,8 @@ a:hover {
   font-family: Arial;
   letter-spacing: 1.2px;
   line-height: 30px;
-  color: cyan;
+  color: rgb(248, 248, 248);
+  text-decoration: blanchedalmond;
 }
 
 .content h1 {
@@ -196,7 +197,7 @@ a:hover {
   padding-left: 20px;
   margin-top: 9%;
   letter-spacing: 2px;
-  color: #070303;
+  color: #faf7f7;
 }
 
 .content span {
@@ -212,14 +213,14 @@ a:hover {
   border-radius: 5px;
   box-sizing: border-box;
   overflow: hidden;
-  width: 600px;
+  width: 800px;
 }
 
 .signin {
   position: relative;
   width: 100%;
   height: 50px;
-  background: #247ebf;
+  background: #7bbae8;
   color: #fff;
   text-align: center;
   line-height: 50px;
@@ -231,7 +232,7 @@ a:hover {
 .fold {
   position: relative;
   width: 100%;
-  background: rgba(131, 157, 199, 0.8);
+  background: rgba(95, 100, 109, 0.8);
   transform-origin: top;
   padding: 30px 20px;
   box-sizing: border-box;
