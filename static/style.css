@@ -105,6 +105,15 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+table,th,td{
+  width: 800px;
+  margin: auto;
+  padding: 8px;
+  text-align: center;
+  border: 2px solid #000;
+  border-collapse: collapse;
+}
+
 nav {
   /* background: #6da9d6; */
   padding: 10px;
